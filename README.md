@@ -137,3 +137,5 @@ The `sql/` folder contains MySQL scripts that reproduce every dashboard metric i
 ## 📬 Contact
 
 Feel free to connect or raise an issue if you have feedback or questions!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Srivatchan-blue?logo=linkedin)](https://www.linkedin.com/in/srivatchan2004/)
