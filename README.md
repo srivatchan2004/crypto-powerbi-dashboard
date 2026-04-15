@@ -134,8 +134,30 @@ The `sql/` folder contains MySQL scripts that reproduce every dashboard metric i
 
 ---
 
+## 🛠️ Skills Demonstrated
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+
+| Skill | Applied In This Project |
+|-------|------------------------|
+| **Power BI** | Multi-page interactive dashboard, slicers, KPI cards, custom visuals |
+| **DAX** | 25+ measures — ATH, ROI, CAGR, moving averages, volatility, RANKX |
+| **MySQL** | 6 query files — window functions, CTEs, YoY analysis, LOAD DATA |
+| **Data Modelling** | Star schema, date table, calculated columns, measure table |
+| **SQL Window Functions** | `ROW_NUMBER()`, `RANK()`, `LAG()`, `FIRST_VALUE()`, `PARTITION BY` |
+| **Data Cleaning** | Date format parsing (`STR_TO_DATE`), null handling, type casting |
+| **Python** | Data exploration and preprocessing of CSV source data |
+
+---
+
 ## 📬 Contact
 
 Feel free to connect or raise an issue if you have feedback or questions!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Srivatchan-blue?logo=linkedin)](https://www.linkedin.com/in/srivatchan2004/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-srivatchan2004.github.io-0A66C2?style=flat&logo=github&logoColor=white)](https://srivatchan2004.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Srivatchan-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/srivatchan2004/)
